@@ -1,0 +1,119 @@
+{
+  "name": "BOYFRIEND",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "BF idle dance",
+      "fps": 24,
+      "looped": true
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "BF NOTE LEFT",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "BF NOTE DOWN",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singUP",
+      "prefix": "BF NOTE UP",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "BF NOTE RIGHT",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singLEFTmiss",
+      "prefix": "BF NOTE LEFT MISS",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singDOWNmiss",
+      "prefix": "BF NOTE DOWN MISS",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singUPmiss",
+      "prefix": "BF NOTE UP MISS",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "singRIGHTmiss",
+      "prefix": "BF NOTE RIGHT MISS",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "hey",
+      "prefix": "BF HEY!!",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "hurt",
+      "prefix": "BF hit",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "scared",
+      "prefix": "BF idle shaking",
+      "fps": 24,
+      "looped": true
+    },
+    {
+      "name": "firstDeath",
+      "prefix": "BF dies",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "deathLoop",
+      "prefix": "BF Dead Loop",
+      "fps": 24,
+      "looped": true
+    },
+    {
+      "name": "deathConfirm",
+      "prefix": "BF Dead confirm",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "dodge",
+      "prefix": "boyfriend dodge",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "attack",
+      "prefix": "boyfriend attack",
+      "fps": 24,
+      "looped": false
+    },
+    {
+      "name": "pre-attack",
+      "prefix": "bf pre attack",
+      "fps": 24,
+      "looped": false
+    }
+  ],
+  "scale": [1.0, 1.0],
+  "position": [450, 250],
+  "flipX": false,
+  "antialiasing": true,
+  "healthIcon": "bf",
+  "healthColor": [49, 176, 209]
+}

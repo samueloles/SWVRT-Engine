@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+  <meta title="SWVRT Engine" package="com.raquel.swvrt" version="1.0.0" company="Raquel Inc." />
+
+  <app main="Main" file="SWVRT-Engine" path="exports" />
+
+  <window width="1280" height="720" fps="60" background="#000000" />
+  <window width="720" height="1280" fps="60" background="#000000" if="mobile" />
+
+  <source path="source" />
+
+  <!-- Librerías necesarias -->
+  <haxelib name="openfl" />
+  <haxelib name="flixel" />
+  <haxelib name="flixel-addons" />
+  <haxelib name="flixel-ui" />
+  <haxelib name="hxcpp" />
+
+  <!-- Assets generales -->
+  <assets path="assets" rename="assets" include="*" />
+
+  <!-- Soporte para imágenes -->
+  <assets path="assets/imagen/menu/custom" include="*.png|*.jpg|*.jpeg" />
+
+  <!-- Soporte para sonidos -->
+  <assets path="assets/sounds" rename="assets/sounds" include="*.ogg" />
+
+  <!-- Soporte para música -->
+  <assets path="assets/music" rename="assets/music" include="*.ogg" />
+
+  <!-- Soporte para fuentes -->
+  <assets path="assets/fonts" include="*.ttf" />
+
+  
+  <!-- Soporte para menus -->
+  <assets path="assets/escenas" rename="assets/escenas" include="*.hx" />
+
+  <!-- Plataformas -->
+  <target name="windows" />
+  <target name="mac" />
+  <target name="html5" />
+  <!-- <target name="android" /> Deshabilitado temporalmente -->
+  
+  <!-- Configuración Android -->
+  <android target-sdk-version="35" />
+  <android min-sdk-version="21" />
+  <android compile-sdk-version="35" />
+  <android permission="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <android permission="android.permission.READ_EXTERNAL_STORAGE" />
+  <android permission="android.permission.INTERNET" />
+  <android permission="android.permission.ACCESS_NETWORK_STATE" />
+  
+  <!-- Controles solo para móviles -->
+  <section if="mobile">
+    <define name="FLX_NO_MOUSE" />
+    <define name="FLX_NO_KEYBOARD" />
+    <define name="MOBILE_BUILD" />
+  </section>
+  
+  <section unless="mobile">
+    <define name="FLX_NO_TOUCH" />
+  </section>
+
+</project>

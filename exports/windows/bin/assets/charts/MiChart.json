@@ -1,0 +1,22 @@
+{
+  "stage": "stage",
+  "player1": "BOYFRIEND",
+  "player2": "DAD",
+  "gfPos": [
+    400,
+    130
+  ],
+  "events": [],
+  "notes": [],
+  "gfVersion": "GF",
+  "opponentPos": [
+    100,
+    100
+  ],
+  "bpm": 120,
+  "playerPos": [
+    770,
+    450
+  ],
+  "song": "Test Song"
+}

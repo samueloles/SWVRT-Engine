@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND.png">
+	<SubTexture name="BFDeadconfirm0000" x="2694" y="0" width="439" height="435" frameX="0" frameY="-64" frameWidth="439" frameHeight="499" />
+	<SubTexture name="BFDeadconfirm0001" x="3143" y="0" width="439" height="469" frameX="0" frameY="-30" frameWidth="439" frameHeight="499" />
+	<SubTexture name="BFDeadconfirm0002" x="3592" y="0" width="439" height="499" />
+	<SubTexture name="BFDeadLoop0000" x="0" y="0" width="439" height="435" />
+	<SubTexture name="BFDeadLoop0001" x="449" y="0" width="439" height="435" />
+	<SubTexture name="BFdies0000" x="5082" y="988" width="433" height="415" frameX="-1" frameY="0" frameWidth="439" frameHeight="445" />
+	<SubTexture name="BFdies0001" x="5525" y="988" width="433" height="415" frameX="-1" frameY="0" frameWidth="439" frameHeight="445" />
+	<SubTexture name="BFHEY0000" x="5388" y="509" width="395" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418" />
+	<SubTexture name="BFHEY0001" x="5388" y="509" width="395" height="416" frameX="0" frameY="0" frameWidth="415" frameHeight="418" />
+	<SubTexture name="BFhit0000" x="4939" y="1893" width="429" height="425" frameX="0" frameY="-16" frameWidth="451" frameHeight="441" />
+	<SubTexture name="BFhit0001" x="5378" y="1893" width="418" height="441" frameX="-4" frameY="0" frameWidth="451" frameHeight="441" />
+	<SubTexture name="BFidledance0000" x="0" y="2344" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412" />
+	<SubTexture name="BFidledance0001" x="0" y="2344" width="406" height="392" frameX="-1" frameY="-20" frameWidth="411" frameHeight="412" />
+	<SubTexture name="BFidledance0002" x="416" y="2344" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412" />
+	<SubTexture name="BFidledance0003" x="416" y="2344" width="408" height="393" frameX="0" frameY="-19" frameWidth="411" frameHeight="412" />
+	<SubTexture name="BFidleshaking0000" x="2087" y="2344" width="408" height="412" frameX="-1" frameY="-1" frameWidth="410" frameHeight="413" />
+	<SubTexture name="BFidleshaking0001" x="2505" y="2344" width="408" height="412" frameX="-2" frameY="-1" frameWidth="410" frameHeight="413" />
+	<SubTexture name="BFNOTEDOWNMISS0000" x="6640" y="509" width="374" height="357" frameX="-1" frameY="-35" frameWidth="375" frameHeight="362" />
+	<SubTexture name="BFNOTEDOWNMISS0001" x="7407" y="509" width="376" height="392" frameX="-1" frameY="0" frameWidth="378" frameHeight="392" />
+	<SubTexture name="BFNOTEDOWN0000" x="6640" y="509" width="374" height="357" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362" />
+	<SubTexture name="BFNOTEDOWN0001" x="6640" y="509" width="374" height="357" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362" />
+	<SubTexture name="BFNOTELEFTMISS0000" x="777" y="988" width="383" height="406" frameX="0" frameY="-26" frameWidth="384" frameHeight="432" />
+	<SubTexture name="BFNOTELEFTMISS0001" x="1170" y="988" width="369" height="430" frameX="-15" frameY="0" frameWidth="384" frameHeight="432" />
+	<SubTexture name="BFNOTELEFT0000" x="0" y="988" width="383" height="406" frameX="0" frameY="0" frameWidth="385" frameHeight="406" />
+	<SubTexture name="BFNOTELEFT0001" x="0" y="988" width="383" height="406" frameX="0" frameY="0" frameWidth="385" frameHeight="406" />
+	<SubTexture name="BFNOTERIGHTMISS0000" x="1929" y="988" width="408" height="405" frameX="-7" frameY="-30" frameWidth="409" frameHeight="407" />
+	<SubTexture name="BFNOTERIGHTMISS0001" x="2765" y="988" width="395" height="432" frameX="0" frameY="0" frameWidth="415" frameHeight="435" />
+	<SubTexture name="BFNOTERIGHT0000" x="1929" y="988" width="408" height="405" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407" />
+	<SubTexture name="BFNOTERIGHT0001" x="1929" y="988" width="408" height="405" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407" />
+	<SubTexture name="BFNOTEUPMISS0000" x="3580" y="988" width="369" height="446" frameX="-9" frameY="0" frameWidth="376" frameHeight="446" />
+	<SubTexture name="BFNOTEUPMISS0001" x="4345" y="988" width="360" height="427" frameX="0" frameY="-13" frameWidth="378" frameHeight="446" />
+	<SubTexture name="BFNOTEUP0000" x="3580" y="988" width="369" height="446" frameX="-5" frameY="0" frameWidth="376" frameHeight="446" />
+	<SubTexture name="BFNOTEUP0001" x="3580" y="988" width="369" height="446" frameX="-5" frameY="0" frameWidth="376" frameHeight="446" />
+	<SubTexture name="bfpreattack0000" x="3761" y="2344" width="386" height="373" frameX="0" frameY="-1" frameWidth="386" frameHeight="374" />
+	<SubTexture name="bfpreattack0001" x="3761" y="2344" width="386" height="373" frameX="0" frameY="-1" frameWidth="386" frameHeight="374" />
+	<SubTexture name="boyfriendattack0000" x="4941" y="2344" width="697" height="597" frameX="0" frameY="-87" frameWidth="708" frameHeight="685" />
+	<SubTexture name="boyfriendattack0001" x="4941" y="2344" width="697" height="597" frameX="0" frameY="-87" frameWidth="708" frameHeight="685" />
+	<SubTexture name="boyfrienddodge0000" x="7226" y="2344" width="375" height="404" frameX="-3" frameY="0" frameWidth="380" frameHeight="404" />
+	<SubTexture name="boyfrienddodge0001" x="7611" y="2344" width="375" height="404" frameX="-3" frameY="0" frameWidth="380" frameHeight="404" />
+</TextureAtlas>
